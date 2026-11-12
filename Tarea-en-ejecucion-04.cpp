@@ -267,7 +267,6 @@ void ejecutarPruebas() {
     }
     cout << "Salida obtenida:";
     imprimir(v);
--
     cout << "\n=== PRUEBA 6: Actualizar ===\n";
     cout << "Entrada: vector base; actualizar el indice 2 con Maria Lopez(2002,3.5,2000)\n";
     cout << "Salida esperada: Ana, Luis, Maria Lopez (Indice U 1000), Pedro\n";
